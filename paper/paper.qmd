@@ -1,0 +1,32 @@
+---
+title: Diffusion Transformers for Semantic Correspondence
+format:
+  pdf:
+    number-sections: true
+    cite-method: biblatex
+    papersize: A4
+    template-partials: 
+      - title.tex
+    include-in-header:
+      - file: assets/latex/setup.tex
+bibliography: bibliography.bib
+execute:
+  echo: false
+author:
+  - name: Jonas Loos
+    affiliations:
+      - name: TU Berlin
+        department:  Machine Learning Group
+        city: Berlin
+        country: Germany
+abstract: TODO
+---
+
+# Introduction
+
+TODO
+
+# Related Work
+
+TODO
+
